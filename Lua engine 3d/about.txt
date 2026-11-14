@@ -1,9 +1,0 @@
-this is a 3d engine, but dont use to make your games, instead, use others 3d engines (roblox studio, unity, unreal, ...)
-this is a 3d engine that uses the cmd and lua, but i think it's not a 3d engine, but a 2.5d engine
-
-v0.9.67
-added:
-collisions and fixed bugs
-
-to be added:
-models (limit 2x2x2 = 8 cells per model)
